@@ -1,0 +1,28 @@
+/* CSS declarations go here */
+*{
+  padding:0;
+  margin:0;
+}
+html{
+  font-size:62.5%;
+}
+body{
+  color: #555555;
+  background-color: #f2f2f2;
+  font-family: Helvetica, sans-serif;
+  font-size:1.6rem;
+}
+input, button, select{
+  font-size:1.3rem;
+}
+h1{
+  font-size: 2.4rem;
+  font-weight: 300;
+}
+
+@import "./components/titleBar";
+@import "./components/wrapper";
+@import "./components/item";
+@import "./components/buttons";
+@import "./components/forms";
+@import "./components/player";

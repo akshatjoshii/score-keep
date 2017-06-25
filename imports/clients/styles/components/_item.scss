@@ -1,0 +1,15 @@
+.item{
+  margin-bottom: 1.3rem;
+  background-color: #fff;
+  border: 1px solid #e8e8e8;
+  padding:1.3rem;
+}
+.item__message{
+  font-size:1.3rem;
+  font-style: italic;
+  font-weight: 300;
+  text-align: center;
+}
+.item__message--empty{
+  color:#999999;
+}
