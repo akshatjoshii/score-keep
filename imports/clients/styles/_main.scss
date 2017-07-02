@@ -1,4 +1,10 @@
 /* CSS declarations go here */
+
+$green: #e4ede0;
+$green-alt: darken($green, 15%);
+$blue: #dfe7ed;
+$red: #eddfdf;
+
 *{
   padding:0;
   margin:0;
